@@ -1,0 +1,26 @@
+@media screen and (max-width:700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .boton{
+        width: 200px;
+        margin-bottom: 5px;
+        padding: 10px 20px;
+    }
+    .descricao{
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width:450px) {
+    .boton{
+        padding: 6px 12px;
+    }
+    
+
+
+
+
+
+}
